@@ -2,7 +2,7 @@
 Einfache Material Farben von einer Farbpalette für Low-Poly und Low-Material Projekte
 
 ## Farbpalette
-[Farben_01](img/colors_01.png)
+![Farben_01](img/colors_01.png)
 
 Horizontal
 1. Reihe - Stein, Asphalt, Mauern usw..
