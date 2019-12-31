@@ -7,7 +7,8 @@ Einfache Material Farben von einer Farbpalette für Low-Poly und Low-Material Pr
 Horizontal
 1. Reihe - Stein, Asphalt, Mauern usw..
 2. Reihe Wasser und Eis
-3. und 4. Reihe Natur
+3. Natur
+4. Natur
 5. Reihe Holz
 6. Reihe Ton, Ziegel
 7. Reihe sonstige Farben
@@ -15,4 +16,3 @@ Horizontal
 
 Vertikal
 letzte Reihe Metalle
- 
